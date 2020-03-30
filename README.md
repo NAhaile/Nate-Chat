@@ -5,5 +5,5 @@ Update 1/24/2020; I begun to start coding, but as I began to write the code on E
 
 Update 1/25/2020; Haven't had a lot of time to work on The ChatBox, but I will start very soon, I am getting my academics squared away.
 
-Update 3/15/2020; with this extended break, the quest to create nate chat has begun!
+Update 3/15/2020; with this extended break, the quest to create nate chat has just begun!
 
